@@ -5,7 +5,7 @@ Shiny for Python
 [![Build status](https://img.shields.io/github/actions/workflow/status/rstudio/py-shiny/pytest.yaml?branch=main)](https://img.shields.io/github/actions/workflow/status/rstudio/py-shiny/pytest.yaml?branch=main)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/deptry)](https://pypi.org/project/deptry/)
 [![License](https://img.shields.io/github/license/rstudio/py-shiny)](https://img.shields.io/github/license/rstudio/py-shiny)
-
+https://shiny.posit.co/py/docs/ipywidgets.html
 Shiny for Python is the best way to build fast, beautiful web applications in Python. You can build quickly with Shiny and create simple interactive visualizations and prototype applications in an afternoon. But unlike other frameworks targeted at data scientists, Shiny does not limit your app's growth. Shiny remains extensible enough to power large, mission-critical applications.
 
 To learn more about Shiny see the [Shiny for Python website](https://shiny.posit.co/py/). If you're new to the framework we recommend these resources:
